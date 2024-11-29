@@ -93,7 +93,7 @@ class _PrincipalConteudoState extends State<PrincipalConteudo> {
         const Padding(
           padding: EdgeInsets.all(15),
           child: Text(
-            'EXPLORE A COLEÇÃO MINECRAFT E PERSONALIZE SEUS DISPOSITIVOS COM PAPÉIS DE PAREDE, BANNERS SOCIAIS E MUITO MAIS!',
+            'EXPLORE A COLEÇÃO MINECRAFT E PERSONALIZE SEUS DISPOSITIVOS COM PAPÉIS DE PAREDE, BANNERS SOCIAIS E MUITO MAIS!!',
             style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black),
           ),
         ),
